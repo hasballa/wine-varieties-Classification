@@ -1,7 +1,7 @@
 # wine-varieties-Classification
 Wine recognition dataset from UC Irvine. Great for testing out different classifiers
 
-# Labels:
+Labels:
 "name" - Number denoting a specific wine class
 
 Number of instances of each wine class
@@ -10,7 +10,7 @@ Class 1 - 59
 Class 2 - 71
 Class 3 - 48
 
-# Features:
+Features:
 
 Alcohol
 Malic acid
